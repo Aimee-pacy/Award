@@ -1,7 +1,7 @@
 # AddProjectApp
 This project for creating an application like Awwards (It doesn't necessarily have to be exactly the same). The application will allow a user to post a project he/she has created and get it reviewed by his/her peers. 
 ## Author
-Floride Tuyisenge
+Aimee Pacifique ISHIMWE
 ## Technologies Used
  * HTML
  * Python
@@ -11,8 +11,7 @@ Floride Tuyisenge
  * Ajax
  
 ## contact details
-Email:flo.tuyisenge@gmail.com/ FTuyisenge120@daviscollege.com
-Phone:+250780674917
+Email:ishimwefique@gmail.com
 
 ### License
 
@@ -34,6 +33,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Copyright (c) 2020 AddProjectApp
+Copyright (c) 2020 Yo-Project
 
 
