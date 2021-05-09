@@ -37,7 +37,6 @@ class ProfileList(APIView):
         return Response(serializers.errors, status=status.HTTP_400_BAD_REQUEST)
 
 
-    
 
 def home(request):
     profiles = Profile.objects.all()
@@ -46,6 +45,7 @@ def home(request):
         form = ProjectForm(request.POST or None, files=request.FILES)
         if form.is_valid():
             project = form.save(commit=False)
+            # import pdb; pdb.set_trace()
             project.user = request.user.profile
             project.save()
     else:
